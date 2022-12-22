@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajeev kuma
+- 👋 Hi, I’m @Rajeev kumar
 - 👀 I’m interested in Test Automation and Programming
 - 🌱 I’m currently learning Python and DataStructures
 - 💞️ I’m looking to collaborate on Python
